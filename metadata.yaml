@@ -1,0 +1,32 @@
+_repo: The-Moon-Metal_8199
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Serviss, Garrett Putman
+    alias: Serviss, Garrett P. (Garrett Putman)
+    birthdate: 1851
+    deathdate: 1929
+    gutenberg_agent_id: '2120'
+    url: http://www.gutenberg.org/2009/agents/2120
+    wikipedia: http://en.wikipedia.org/wiki/Garrett_P._Serviss
+description: For thousands of years, human civilization has pegged its currencies
+  and barter systems to stores of precious metals. What would happen if our interstellar
+  explorations uncovered infinite stores of gold, silver, platinum, and more? That's
+  the thought-provoking premise of The Moon Metal, a tale from Garrett P. Serviss,
+  an astronomer and science-fiction pioneer who blazed trails in both fields in the
+  early twentieth century.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8199'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- GITenberg
+title: The Moon Metal
+url: http://www.gutenberg.org/ebooks/8199
