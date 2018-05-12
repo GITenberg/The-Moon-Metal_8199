@@ -1,5 +1,8 @@
 _repo: The-Moon-Metal_8199
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Serviss, Garrett Putman
@@ -15,6 +18,8 @@ description: For thousands of years, human civilization has pegged its currencie
   the thought-provoking premise of The Moon Metal, a tale from Garrett P. Serviss,
   an astronomer and science-fiction pioneer who blazed trails in both fields in the
   early twentieth century.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8199#The-Moon-Metal
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
